@@ -175,7 +175,7 @@ aside {
 
 aside > h3 {
     background-color: var(--cor4);
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 10px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
@@ -190,14 +190,14 @@ aside > ul {
 
 footer {
     background-color: var(--cor5);
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 0,8em;
     padding: 5px;
 }
 
 footer > p > a {
-    color: white;
+    color: rgb(244, 244, 244);
     font-weight: bolder;
     text-decoration: none;
 }
